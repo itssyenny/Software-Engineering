@@ -1,0 +1,29 @@
+component 0 size changed to 50
+[12]Hi
+[1]<ParagraphEnd>
+[12]nice
+[12]to
+[12]meet
+[50]you
+[20]scared.jpg
+[1]<ParagraphEnd>
+[12]Hi [1]<ParagraphEnd>
+[12]nice [12]to [12]meet [50]you [20]scared.jpg [1]<ParagraphEnd>
+[12]Hi [1]<ParagraphEnd> [12]nice
+[12]to [12]meet [50]you
+[20]scared.jpg [1]<ParagraphEnd>
+component 5 failed to change size
+component 5 size changed to 60
+[60]Hi [1]<ParagraphEnd>
+[12]nice [12]to [12]meet [50]you [20]scared.jpg [1]<ParagraphEnd>
+[60]Hi [1]<ParagraphEnd> [12]nice
+[12]to [12]meet [50]you
+[20]scared.jpg [1]<ParagraphEnd>
+[60]Hi
+[1]<ParagraphEnd>
+[12]nice
+[12]to
+[12]meet
+[50]you
+[20]scared.jpg
+[1]<ParagraphEnd>

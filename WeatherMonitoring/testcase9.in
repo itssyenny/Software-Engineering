@@ -1,0 +1,6 @@
+attach Asia Current
+data US 21.0 0.9 1014.5
+data US 18.0 0.1 1014.5
+data US 17.3 0.6 1015.0
+attach US Statistics
+data US 23.25 0.8 1014.7

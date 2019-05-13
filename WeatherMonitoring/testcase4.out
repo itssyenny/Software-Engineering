@@ -1,0 +1,44 @@
+Temperature 10.2
+Humidity 30.1
+Pressure 24.5
+Temperature 10.2 12.2 11.7
+Humidity 30.1 24.5 25.3
+Pressure 24.5 25.8 31.0
+Forecast rain.
+Temperature 100.2
+Humidity 214.2
+Pressure 123.2
+Temperature 10.2 12.2 11.7 14.2 100.2
+Humidity 30.1 24.5 25.3 25.2 214.2
+Pressure 24.5 25.8 31.0 142.1 123.2
+Forecast rain.
+DisplayType doesn't exist.
+Temperature 1.0
+Humidity 2.0
+Pressure 0.5
+Temperature 10.2 12.2 11.7 14.2 100.2 1.0
+Humidity 30.1 24.5 25.3 25.2 214.2 2.0
+Pressure 24.5 25.8 31.0 142.1 123.2 0.5
+Forecast rain.
+DisplayType doesn't exist.
+Temperature 9.0
+Humidity 3.0
+Pressure 0.0
+Forecast rain.
+Country doesn't exist.
+Country doesn't exist.
+Temperature 5.9
+Humidity 23.9
+Pressure 1223.1
+Temperature 3.5
+Humidity 6.1
+Pressure 4.2
+Forecast rain.
+Temperature 5.9 3.5
+Humidity 23.9 6.1
+Pressure 1223.1 4.2
+Temperature 5.9 3.5 23.1
+Humidity 23.9 6.1 23.6
+Pressure 1223.1 4.2 123.6
+DisplayType doesn't exist.
+Country doesn't exist.

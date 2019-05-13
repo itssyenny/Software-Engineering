@@ -1,0 +1,8 @@
+attach US Statistics
+data US 5.4 3.345 2.9732
+attach US Statistics
+attach US Statistics
+data US 7.4234 8.254 9.254
+detach US Statistics
+detach US Statistics
+detach US Statistics

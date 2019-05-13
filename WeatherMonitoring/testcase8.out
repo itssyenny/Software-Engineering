@@ -1,0 +1,21 @@
+Temperature 21.0
+Humidity 0.9
+Pressure 1014.5
+Temperature 17.3
+Humidity 0.6
+Pressure 1015.0
+Forecast cloudy.
+Temperature 22.0
+Humidity 0.3
+Pressure 1014.5
+Forecast cloudy.
+Temperature 21.0 17.3 22.0
+Humidity 0.9 0.6 0.3
+Pressure 1014.5 1015.0 1014.5
+Temperature 19.0
+Humidity 0.5
+Pressure 1014.5
+Forecast cloudy.
+Temperature 21.0 17.3 22.0 19.0
+Humidity 0.9 0.6 0.3 0.5
+Pressure 1014.5 1015.0 1014.5 1014.5

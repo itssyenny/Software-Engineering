@@ -1,0 +1,40 @@
+attach Asia Current
+data Asia 10.2 30.1 24.5
+detach Asia Current
+data Asia 12.2 24.5 25.8
+attach Asia Statistics
+data Asia 11.7 25.3 31.0
+detach Asia Statistics
+attach Asia Forecast
+data Asia 14.2 25.2 142.1
+detach Asia Forecast
+attach Asia Current
+attach Asia Statistics
+attach Asia Forecast
+data Asia 100.23 214.23 123.2
+attach Asia Currentss
+detach Asia Currentss
+data Asia 1.0 2.0 0.5
+detach Asia Statistics
+attach Asia Stats
+data Asia 9.0 3.0 0.001
+data UK 20.1 23.4 12.41
+attach UK Weather
+attach UK Current
+attach UK Forecast
+detach UK Current
+detach UK Weather
+data UK 1.9 2.0 123.8
+attach US Current
+data US 5.9 23.9 1223.1
+attach US Forecast
+attach US Statistics
+data US 3.5 6.12 4.21
+detach US Current
+detach US Forecast
+data US 23.14 23.64 123.64
+attach US Curentsss
+detach US Currentsss
+attach Germany Weather
+attach Germany Current
+data Germany 23.12 1.41 234.24 
